@@ -4,4 +4,5 @@ Html
 </br >
 <p>Youtube channel</p>
 <a href=https://youtube.com/@goarkaditya?si=KKakmc8PQhPmuE20>ytchannel</a>
-<img src=“/<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/915c1355-4b96-433c-8983-dd7f3e819c40" />
+<img src=“<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0ef6462a-0055-4f7e-a8f9-8c0f0c631f68" />
+
