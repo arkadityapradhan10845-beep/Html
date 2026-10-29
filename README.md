@@ -30,12 +30,12 @@
     <section>Education=12th cbse,gayatri</section>
 <sections>Experience=cooding</sections>
 
-  </main>
+  </main> 
   <footer>
 <h3>contact me at hello@gc.com</h3>
   </footer>
 </body>
-<a herf=“https://google.com” target=“_main”>google </a>
+<a href=https://youtu.be/ktoYUycRXTA?si=nT-UfJLPnYV5G9zt target=“_main”>yt</a>
 </html> 
 
 
