@@ -9,7 +9,7 @@
   <br>
   <i>Hola</i>
   <br>
-  <p>For <span class="highlight-underline">hello</span> world, this is a test.</p
+  <p> <span class="highlight-underline">hello</span> </p>
   <br>
   <br>
   <br>
