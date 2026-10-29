@@ -35,7 +35,7 @@
 <h3>contact me at hello@gc.com</h3>
   </footer>
 </body>
-<a href=https://www.google.com/target=“_main”>yt</a>
+<a href=https://www.google.com/ target=“_main”>google </a>
 </html> 
 
 
