@@ -35,7 +35,7 @@
 <h3>contact me at hello@gc.com</h3>
   </footer>
 </body>
-<a href=https://youtu.be/ktoYUycRXTA?si=nT-UfJLPnYV5G9zt target=“_main”>yt</a>
+<a href=“https://google.com” target=“_main”>yt</a>
 </html> 
 
 
