@@ -27,8 +27,8 @@
 <h1>education</h1>
   </header>
   <main>
-    
-
+    <section>Education=12th cbse,gayatri</section>
+<sections>Experience=cooding</sections>
 
   </main>
   <footer>
