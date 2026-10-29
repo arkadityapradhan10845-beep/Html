@@ -12,6 +12,9 @@
   <p> <span class="highlight-underline">hello</span> </p>
   <br>
   <br>
+  <big>This is for big</big>
+  <hr>
+  <small>This is for small</small>
   <br>
   <br>
 </html> 
