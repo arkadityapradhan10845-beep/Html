@@ -35,7 +35,7 @@
 <h3>contact me at hello@gc.com</h3>
   </footer>
 </body>
-<a herf=google.com target=“_main”>google </a>
+<a herf=“https://google.com” target=“_main”>google </a>
 </html> 
 
 
