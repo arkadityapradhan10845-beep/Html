@@ -9,7 +9,7 @@
   <br>
   <i>Hola</i>
   <br>
-<u> namaste </u>
+<U>Namaste</U>  
   <br>
 </html> 
 
