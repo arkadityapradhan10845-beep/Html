@@ -4,7 +4,7 @@
 </br >
 <p>Youtube channel</p>
 <a href=https://youtube.com/@goarkaditya?si=KKakmc8PQhPmuE20>ytchannel</a>
-<img src="https://github.com/user-attachments/assets/529e493e-333f-45ac-8c69-5e65e9d4d1cb" />
+<img src="https://github.com/user-attachments/assets/529e493e-333f-45ac-8c69-5e65e9d4d1cb" height=100 />
 </html> 
 
 
