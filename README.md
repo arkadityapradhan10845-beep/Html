@@ -26,6 +26,14 @@
   <header>
 <h1>education</h1>
   </header>
+  <main>
+    
+
+
+  </main>
+  <footer>
+<h3>contact me at hello@gc.com</h3>
+  </footer>
 </body>
 </html> 
 
