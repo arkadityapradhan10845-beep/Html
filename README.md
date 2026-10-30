@@ -83,6 +83,9 @@
 </tr>
     </tbody>
   </table>
+  <form action=“/action.php”>
+  <input type=“text” placeholder=“type something here”>
+  </form>
 
 </main>
 </html> 
