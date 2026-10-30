@@ -85,7 +85,8 @@
   </table>
   <br>
   <form action="/action.php">
-    testing<input type="text" placeholder="Type something here">
+  <input type="text" placeholder="username">
+    <input type="text" placeholder="password">
   </form>
 </main>
 </html> 
