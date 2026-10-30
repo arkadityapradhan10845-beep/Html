@@ -60,6 +60,7 @@
     <li>phone</li>
     <ol>
       <li>brand : apple</li>
+    </ol>
     <li>tab</li>
       <ol>
         <li>model :ipad 11  </li>
