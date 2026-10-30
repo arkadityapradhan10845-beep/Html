@@ -67,18 +67,21 @@
      </ol>
   </ol> 
   <table>
+    <thead>
     <caption>
       student data
     </caption>
-
    <tr>
 <th>Name</th>
 <th>Roll No</th>
    </tr>
+    </thead>
+    <tbody>
 <tr>
  <td>Shradha</td>
   <td>1664</td>
 </tr>
+    </tbody>
   </table>
 
 </main>
