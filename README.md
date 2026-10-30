@@ -83,10 +83,10 @@
 </tr>
     </tbody>
   </table>
-  <form action=“/action.php”>
-    <input type=“text” placeholder=“ type something here”>
+  <br>
+  <form action="/action.php">
+<input type="text" placeholder="Type something here"
   </form>
-
 </main>
 </html> 
 
