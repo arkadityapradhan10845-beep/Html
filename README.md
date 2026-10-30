@@ -67,6 +67,10 @@
      </ol>
   </ol> 
   <table>
+    <caption>
+      student data
+    </caption>
+
    <tr>
 <th>Name</th>
 <th>Roll No</th>
