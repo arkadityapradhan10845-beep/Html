@@ -72,8 +72,8 @@
 <th>Roll No</th>
    </tr>
 <tr>
- <th>Shradha </th> 
- <th>1664</th>
+ <td>Shradha</td>
+  <td>1664</td>
 </tr>
   </table>
   
