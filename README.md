@@ -46,12 +46,25 @@
 <br>
 <main>
  <ul>
-<li>Apple</li>   
+<li>Apple</li>  
+   <ul>
+     <li>colour : red<li>
+       </ul>
 <li>mango</li>
+   <ul>
+     <li>season :winter</li>
+
+   </ul>
  </ul> 
   <ol>
     <li>phone</li>
+    <ol>
+      <li>brand : apple</li>
     <li>tab</li>
+      <ol>
+        <li>model :ipad 11  </li>
+
+      </ol>
   </ol>
 </main>
 </html> 
